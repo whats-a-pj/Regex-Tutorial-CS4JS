@@ -3,6 +3,8 @@
 As a web developer, I need to be able to test input forms for login, see if my code contains any errors caused by having 'fat fingers' or just to make sure a certain string is set up the way my client wants it. I put together a regular expression tutorial for other web developers who need some guidance doing the same thing!
 
 The goal of this repository was simply to show other developers how useful regex can be, as well as show what I've learned in this past week on how it all works. I'd love to use regex more often to add some complexity to my code and for more 'case sensitive' projects.
+[Link to Gist Tutorial](https://github.com/whats-a-pj/Regex-Tutorial-CS4JS/blob/main/gist-template.md)
+
 
 ## Questions
 All questions can be directed to:
